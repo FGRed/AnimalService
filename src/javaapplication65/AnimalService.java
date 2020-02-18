@@ -5,8 +5,6 @@
  */
 package javaapplication65;
 
-import java.util.List;
-
 /**
  *
  * @author Niko

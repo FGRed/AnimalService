@@ -5,7 +5,6 @@
  */
 package javaapplication65;
 
-import java.text.ParseException;
 import java.util.Scanner;
 
 /**
