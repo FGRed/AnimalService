@@ -18,7 +18,6 @@ public class Client {
 
     public static void main(String[] args) {
         Dog dog = new Dog("Husky", 'L');
-        dog.theAnimalSays();
         animalSerivice.addAnimal(dog);
         Scanner s = new Scanner(System.in);
 
